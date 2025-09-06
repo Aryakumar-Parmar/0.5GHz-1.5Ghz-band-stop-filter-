@@ -1,0 +1,30 @@
+(status): Nexxim version: 2025.2.0 WIN64, build time: May 16 2025, 12:12:19
+
+(status): Analyzing C:/Users/Arya/Documents/Ansoft/lowpass.aedtresults/Circuit1/temp/DV35_S33_V38.cir.
+(info): Processing circuit for new analysis.
+omp(status): Requested number of threads in UI setting is 4
+circuit_details(status): Total device types: 2
+device type                                       number of devices
+----------------------------------------------------------------------
+port_impedance                                    2
+trl                                               7
+(status): License checkout took 0.41 seconds.
+models:w_element(status): a26.w - Building frequency-domain model
+models:w_element(status): a26.w - Finished building frequency-domain model
+models:w_element(status): a27.w - Building frequency-domain model
+models:w_element(status): a27.w - Finished building frequency-domain model
+models:w_element(status): a28.w - Building frequency-domain model
+models:w_element(status): a28.w - Finished building frequency-domain model
+models:w_element(status): a46.w - Building frequency-domain model
+models:w_element(status): a46.w - Finished building frequency-domain model
+models:w_element(status): a47.w - Building frequency-domain model
+models:w_element(status): a47.w - Finished building frequency-domain model
+models:w_element(status): a48.w - Building frequency-domain model
+models:w_element(status): a48.w - Finished building frequency-domain model
+models:w_element(status): a5.w - Building frequency-domain model
+models:w_element(status): a5.w - Finished building frequency-domain model
+(info): Starting analysis type LNA.
+analysis:dc(status): Total DC newton iterations = 4, DC conv = 1.
+(status): LNA cpu time = 0.009
+(info): Simulation succeeded. Total simulator time: 0:00:00
+(status): Start Time:  09/06/2025 12:17:45, End Time:  09/06/2025 12:17:46, Host ARYALOQ, 
